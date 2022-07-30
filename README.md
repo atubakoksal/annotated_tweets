@@ -12,5 +12,3 @@ Koksal, A. T., Bozal, O., Yürekli, E., & Gezici, G. (2020). #Turki$hTweets: A B
   year={2020}
 }
 ```
-
-**If you use the data, please cite the paper.**
