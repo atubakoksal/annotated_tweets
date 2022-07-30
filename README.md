@@ -13,4 +13,4 @@ Koksal, A. T., Bozal, O., Yürekli, E., & Gezici, G. (2020, November). #Turki$hT
 }
 ```
 
-**If you use the data, please cite the paper as follows.**
+**If you use the data, please cite the paper.**
