@@ -2,7 +2,6 @@
 
 Koksal, A. T., Bozal, O., Yürekli, E., & Gezici, G. (2020, November). #Turki$hTweets: A Benchmark Dataset for Turkish Text Correction. In _Findings of the Association for Computational Linguistics: EMNLP 2020_ (pp. 4190-4198)
 
-If you use the data please cite the paper as follows:
 
 ```
 @inproceedings{koksal2020turki,
@@ -13,3 +12,5 @@ If you use the data please cite the paper as follows:
   year={2020}
 }
 ```
+
+**If you use the data, please cite the paper as follows.**
